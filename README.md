@@ -3,7 +3,7 @@
     <img align="center" width="300" src="mateus.png" />
   </a>
   <a href="#">
-    <img align="center" width="450" src="dev.gif" />
+    <img align="center" width="450" src="http://gph.is/2fLzf2e" />
   </a>
 </p>
 </br>
