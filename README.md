@@ -26,7 +26,7 @@
 
 ## Opa! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Abstract
+### Informações
 
 - 👨‍💻 Estudante de Ciência da Computação na **Cruzeiro do Sul**.
 - 🌱 Social Media (Soccer Designer) **@leaf.dsgn**
