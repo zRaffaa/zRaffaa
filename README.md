@@ -28,7 +28,8 @@
 
 - 👨‍💻 Estudante de Ciência da Computação na **Cruzeiro do Sul**.
 - 🌱 Social Media (Soccer Designer) **@leaf.dsgn**
-- 💙 Interesse: Node.js, HTML, CSS, Python
+- 💻 Discord Manager / Bot Programmer
+- 💙 Aprendendo: Node.js, HTML, CSS, Python
 
 
 
