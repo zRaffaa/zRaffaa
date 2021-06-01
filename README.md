@@ -7,13 +7,13 @@
 </br>
 </br>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/zRaffaa/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteusaraujo&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=zRaffaa&layout=compact"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/zRaffaa/github-readme-stats">
     <img
       align="center"
       height="165"
