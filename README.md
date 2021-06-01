@@ -66,7 +66,7 @@
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/zRaffaa/count.svg" />
  </p>
- <p>
+ <div>
 ![Snake animation](https://github.com/zRaffaa/zRaffaa/blob/output/github-contribution-grid-snake.svg)
 </p>
-</p>
+</div>
