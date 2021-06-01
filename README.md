@@ -67,6 +67,6 @@
    <img alingn="center" src="https://profile-counter.glitch.me/zRaffaa/count.svg" />
  </p>
  <p>
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/zRaffaa/zRaffaa/blob/output/github-contribution-grid-snake.svg)
 </p>
 </p>
