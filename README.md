@@ -27,7 +27,7 @@
 ### Informações
 
 - 👨‍💻 Estudante de Ciência da Computação na **Cruzeiro do Sul**.
-- 🌱 Social Media (Soccer Designer) **@leaf.dsgn**
+- 🌱 Social Media E Soccer Designer **@leaf.dsgn**
 - 💻 Discord Manager / Bot Programmer
 - 💙 Aprendendo: Node.js, HTML, CSS, Python
 
