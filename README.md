@@ -2,7 +2,7 @@
  
   <a href="#">
     <img align="center" width="350" src="gif.gif" />
-  <img align="center" width="250" src="gif1.gif" />
+  <img align="center" width="250" src="welcome.gif" />
   </a>
 </p>
 </br>
