@@ -1,8 +1,8 @@
 <p align="center">
  
   <a href="#">
-    <img align="center" width="350" src="gif.gif" />
-  <img align="center" width="250" src="Animated GIF-source.gif" />
+   
+  <img align="center" width="450" src="meugiphy.gif" />
   </a>
 </p>
 </br>
@@ -17,7 +17,7 @@
   <a href="https://github.com/zRaffaa/github-readme-stats">
     <img
       align="center"
-      height="165"
+      height="140"
       src="https://github-readme-stats.vercel.app/api?username=zRaffaa&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
