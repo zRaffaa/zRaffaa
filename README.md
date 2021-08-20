@@ -11,14 +11,15 @@
   <a href="https://github.com/zRaffaa/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=zRaffaa&layout=compact"
+      height="140"
+      src="https://github-readme-stats.vercel.app/api?username=zRaffaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
     />
   </a>
   <a href="https://github.com/zRaffaa/github-readme-stats">
     <img
       align="center"
       height="140"
-      src="https://github-readme-stats.vercel.app/api?username=zRaffaa&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=zRaffaa&layout=compact&langs_count=7&theme=dark"
     />
   </a>
 </p>
@@ -57,11 +58,11 @@
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/zRaffaa">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="ribeirovanderson90@gmail.com">
+    <a href="contato.rafaelribeiro08@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ribeirovanderson90@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.instagram.com/leaf.dsgn/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+ <a href="https://www.behance.net/zrafaelribeiro" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank">
  </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rafael-ribeiro-855b54215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
