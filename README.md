@@ -2,7 +2,8 @@
  
   <a href="#">
    
-  <img align="center" width="450" src="meugiphy.gif" />
+  <img align="center" width="450" src="meugiphy.gif" /> 
+
   </a>
 </p>
 </br>
@@ -21,6 +22,7 @@
       height="140"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=zRaffaa&layout=compact&langs_count=7&theme=dark"
     />
+<img align="right" alt="Eu.png" height="170" style="border-radius:150px;" src="Eu.png">
   </a>
 </p>
 
@@ -28,10 +30,11 @@
 
 ### Informações
 
-- 👨‍💻 Estudante de Ciência da Computação na **Cruzeiro do Sul** e UI/UX Designer
-- 🌱 Social Media E Soccer Designer **@leaf.dsgn**
-- 💻 Discord Manager / Bot Programmer
-- 💙 Aprendendo: Node.js, HTML, CSS, Python
+- 👨‍💻 Estudante de Ciência da Computação na **Cruzeiro do Sul** e UI/UX Designer Junior
+- 🌱 Social Media **@cyberdicasbr**
+- 💻 Discord Manager
+- 💙 Aprendendo: Javascript, HTML, CSS, Python, Kivy.
+ 
 
 
 
@@ -70,7 +73,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://discord.gg/yMxuMrF6Px" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
  </a>
-    
+
 </p>
 
 <p align="center"> 
