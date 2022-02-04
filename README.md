@@ -22,6 +22,7 @@
       height="140"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=zRaffaa&layout=compact&langs_count=7&theme=dark"
     />
+<br>
 <img align="right" alt="Eu.png" height="170" style="border-radius:150px;" src="Eu.png">
   </a>
 </p>
