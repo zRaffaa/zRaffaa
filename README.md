@@ -34,7 +34,7 @@
 - 👨‍💻 Estudante de Ciência da Computação na **Cruzeiro do Sul** e UI/UX Designer Junior
 - 🌱 Social Media **@cyberdicasbr**
 - 💻 Discord Manager
-- 💙 Aprendendo: Javascript, HTML, CSS, Python, Kivy.
+- 💙 Aprendendo: Java, C#, JS, Python.
  
 
 
