@@ -31,8 +31,8 @@
 
 ### Informações
 
-- 👨‍💻 Estudante de Ciência da Computação na **Cruzeiro do Sul** e UI/UX Designer Junior
-- 🌱 Social Media **@cyberdicasbr**
+- 👨‍💻 Estudante de Ciência da Computação na **Cruzeiro do Sul** e UI/UX Designer
+- 🌱 Ux/Ui Designer for **@sagittadigital**
 - 💻 Discord Manager
 - 💙 Aprendendo: Java, C#, JS, Python.
  
