@@ -31,9 +31,8 @@
 
 ### Informações
 
-- 👨‍💻 Estudante de Ciência da Computação na **Cruzeiro do Sul** e UI/UX Designer
+- 👨‍💻 Estudante de Design Gráfico na **Cruzeiro do Sul** e UI/UX Designer
 - 🌱 Ux/Ui Designer for **@sagittadigital**
-- 💻 Discord Manager
 - 💙 Aprendendo: Java, C#, JS, Python.
  
 
